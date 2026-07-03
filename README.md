@@ -17,7 +17,7 @@ A full-stack web application that visualizes real-time traffic congestion using 
 ## 🗂️ Project Structure
 
 ```
-drinkgodi/
+traffic-congestion/
 ├── src/                        # React frontend (Vite)
 │   ├── components/
 │   │   ├── CrossroadsBackground.jsx  # 3D Three.js traffic simulation
